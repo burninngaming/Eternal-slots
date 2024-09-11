@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spin Logic & Eternal Slots Affiliate Program</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Partner with Spin Logic & Eternal Slots Affiliate Program</h1>
+    <p>Your trusted partner in promoting the best online casino platforms.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#marketing-tools">Marketing Tools</a></li>
+      <li><a href="#contact">Contact Us</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+    <h2>About Spin Logic and Eternal Slots</h2>
+
+    <article>
+      <h3>Spin Logic</h3>
+      <p>Spin Logic is an innovative software company that specializes in developing top-tier casino platforms. With a deep understanding of player psychology and gaming trends, Spin Logic delivers cutting-edge solutions for online casinos. Their portfolio includes some of the most popular slots, table games, and video poker titles on the market.</p>
+      <p>Their commitment to creating engaging, seamless, and secure experiences makes them a leader in the online casino industry. As an affiliate, you’ll be promoting a platform backed by years of expertise and trust.</p>
+    </article>
+
+    <article>
+      <h3>Eternal Slots</h3>
+      <p>Eternal Slots is one of Spin Logic’s flagship platforms, offering a wide range of casino games, including slot machines, table games, and live dealer games. Players enjoy generous promotions, seamless gameplay, and a highly secure environment. Eternal Slots is a favorite among online gamers, known for its reliability, diverse game library, and user-friendly interface.</p>
+      <p>By partnering with us, you can attract players to one of the most respected and rewarding casino platforms in the industry.</p>
+    </article>
+  </section>
+
+  <section id="marketing-tools">
+    <h2>Marketing Tools</h2>
+    <p>As an affiliate, you will have access to a range of marketing materials to help you drive traffic to Eternal Slots. We provide high-quality banners, promotional ads, and tracking links for your website or blog.</p>
+
+    <!-- Placeholder Ad Banner 1 -->
+    <div class="ad-banner">
+      <img src="https://via.placeholder.com/728x90.png?text=728x90+Casino+Ad+Banner" alt="Casino Ad Banner 1">
+    </div>
+
+    <!-- Placeholder Ad Banner 2 -->
+    <div class="ad-banner">
+      <img src="https://via.placeholder.com/300x250.png?text=300x250+Casino+Ad+Banner" alt="Casino Ad Banner 2">
+    </div>
+
+    <p>Each of these tools will be automatically linked to your unique Affiliate ID, ensuring that all traffic and conversions are tracked to your account. Ready to see your commissions grow?</p>
+    <a href="#contact" class="cta-button">Sign Up to Become an Affiliate</a>
+  </section>
+
+  <footer id="contact">
+    <h2>Contact Us</h2>
+    <p>If you have any questions or would like to become a partner, reach out to us at:</p>
+    <a href="mailto:gvgt@msn.com">gvgt@msn.com</a>
+  </footer>
+
+</body>
+</html>
